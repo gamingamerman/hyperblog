@@ -1,3 +1,0 @@
-Hello this is a report!
-Hello World!
-This is an example test meant to test stuff
